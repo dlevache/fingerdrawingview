@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FingerDrawingView</string>
+
+    <!-- Test activity -->
+    <string name="settings_drawing_pen_width">Drawing pen width</string>
+    <string name="settings_erasing_pen_width">Erasing pen width</string>
+    <string name="settings_drawing_color">Drawing pen color</string>
+    <string name="settings_background_color">Background color</string>
+    
+    <!-- Fake action bar bottom -->
+    <string name="fabb_drawing_mode">Pen</string>
+    <string name="fabb_erasing_mode">Eraser</string>
+    <string name="fabb_erase_all">Erase all</string>
+    <string name="fabb_save_file">Save</string>
+
+</resources>

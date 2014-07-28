@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Common -->
+    <color name="background">#FFFFFFFF</color>
+    <color name="text_color">#FF000000</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="blue">#FF0000BB</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    
+    
+    <!-- Fake action bar -->
+    <color name="fab_background">#FF000000</color>
+    <color name="fab_separator">#FFA2B844</color>
+    <color name="fab_action_foreground_pressed">#33FFFFFF</color>
+    <color name="fab_action_foreground_normal">#00000000</color>
+
+    <!-- Settings -->
+    <color name="settings_separator">#88DDDDDD</color>
+    <color name="settings_item_background_normal">#00000000</color>
+    <color name="settings_item_background_pressed">#22000000</color>
+
+</resources>
